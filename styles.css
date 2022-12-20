@@ -1,0 +1,90 @@
+.header{
+    background-color: #08376C;
+    text-align: center;
+    padding: 15px; 
+    
+}
+
+body{
+  margin: 0;
+}
+
+a:link {
+    color: white;
+  }
+
+a:visited {
+    color: white;
+  }
+
+a{
+    margin-right: 50px;
+  }
+
+body{
+    background-color: rgb(237, 244, 245);
+  }
+
+.form{
+    
+    background-color: white;
+    
+    border-color: #0d0d0e;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+   
+    display: inline-block;
+    display: inline-block;
+    margin-left: 25%;
+    margin-right:25%;
+    width: 50%;
+    text-align: left;
+}
+
+.form-box{
+    text-align: center;
+    
+}
+
+#submitbtn{
+  cursor: pointer;
+  color: white;
+  background-color: #08376C;
+  padding: 5px;
+  outline: none;
+}
+
+.submitbtn{
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.footer{
+  background-color: black;
+  text-align: center;
+  padding: 10px; 
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+table {
+  border-spacing: 10px;
+  border-color: #0d0d0e;
+  border-width: 1px;
+}
+
+h3{
+  color: #08376C;
+  text-align: center;
+}
+
+.footer-list{
+  background-color: #08376C;
+  padding: 20px;
+  text-align: center;
+}
